@@ -1,5 +1,5 @@
 # Mill-a-Week
-weekly experiments with othermachine Othermill
+weekly experiments with othermachine Othermill by @todbot & @carlynorama
 
 
 ## Projects
