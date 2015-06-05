@@ -7,9 +7,9 @@ Because she's crazy.
 
 ## No, really...
 
-Well I was interested in the difference between how otherplan imported .svg files 
+Well I was interested in the difference between how Otherplan imported .svg files 
 and eagle .brd files. Specifically with svg files I didn't feel like I had enough 
-control over "put a hole here." 
+control over "put a tiny hole here." 
 
 Eagle, however, isn't a design package. 
 
@@ -27,8 +27,8 @@ A given project might have lots of files for different aspects of the board.
   
 ### How did you learn how to write them?
 
-Well, I already know Eagle and UML and exporting to gerber, blah blah blah so I wasn't
-starting from zero.
+Well, I already know Eagle and ulp scr scripts and exporting to gerber, blah blah blah 
+so I wasn't starting from zero.
 
 3 most helpful links:
 - https://learn.sparkfun.com/tutorials/using-eagle-board-layout/generating-gerbers
