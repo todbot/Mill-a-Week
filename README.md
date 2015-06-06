@@ -18,6 +18,20 @@ weekly experiments with othermachine Othermill by @todbot & @carlynorama
 
 ![](https://farm8.staticflickr.com/7789/18249422435_8da4d725ca_n.jpg)
 
+### HandCodedGerberPart01 - 5 Jun 2015
+- Task: Explore how Otherplan imports Gerbers vs. SVGs, since in SVGs you can't do "put a hole here"
+- Notes:
+  - See [HandCodedGerberPart01/README.md](HandCodedGerberPart01/README.md)
+
+![](https://farm1.staticflickr.com/332/18508563501_212363b018_n.jpg)
+
+### NeoJoints - 5 Jun 2015
+- Task: Make "joints" for NeoPixel/WS2812 LED strip to make it easier to join pieces together
+- Notes:
+  - Programmatically generating these for different angles, LED spacing, etc. would be good.
+
+![](https://c1.staticflickr.com/1/453/17888242663_c46d147722_n.jpg")
+
 
 
 
