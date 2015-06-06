@@ -1,6 +1,10 @@
 # Hand Coding Gerbers
 Where carlyn gets a wee bit controlling. 
 
+ 
+![alt text](https://c1.staticflickr.com/1/450/18501083412_c6003eb3a6.jpg "Image of Otherplan software rendering of gerber file in this repo")
+
+
 ## Why did Carlyn want to hand code gerber files?
 
 Because she's crazy.
