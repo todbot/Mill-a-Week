@@ -45,7 +45,7 @@ There doesn't seem to be the ability to comment inside of gerber files and I wil
 totally forget.
 
 | Gerber File Says       | It means(ish)          |
-| ------------- |:-------------:|
+| ------------- |:------------- |
 | `G04 Beginning of File Message*` | Start the file with a message |
 | `%FSLAX25Y25*%` |  Tell the file how you are going to handle numbers. (7 characters, where the right 5 are decimal places, leave off leading zeros.| 
 | `%MOIN*%` | Measurements are in inches. |
