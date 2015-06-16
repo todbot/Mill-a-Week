@@ -35,7 +35,8 @@ weekly experiments with othermachine Othermill by @todbot & @carlynorama
 ### MillBug - 12 Jun 2015
 - Task: Make an ATtiny85-based circuit using something other than LEDs
 - Notes:
- - Soldering SMD on non-soldermask boards is a recipe for disaster if you have spazzy hands.
+  - Soldering SMD on non-soldermask boards is a recipe for disaster if you have spazzy hands.
+  - So, increase polygon "isolate" value for ground pour to give you bigger spacing to non-milled copper.
 
 ![](https://c2.staticflickr.com/6/5481/18657958938_64a0dcd612_n.jpg)
 ![](https://c4.staticflickr.com/4/3726/18659929919_464aa0b578_n.jpg)
