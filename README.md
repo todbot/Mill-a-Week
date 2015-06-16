@@ -38,6 +38,7 @@ weekly experiments with othermachine Othermill by @todbot & @carlynorama
  - Soldering SMD on non-soldermask boards is a recipe for disaster if you have spazzy hands.
 
 ![](https://c2.staticflickr.com/6/5481/18657958938_64a0dcd612_n.jpg)
+![](https://c4.staticflickr.com/4/3726/18659929919_464aa0b578_n.jpg)
 
 
 
