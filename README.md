@@ -30,9 +30,14 @@ weekly experiments with othermachine Othermill by @todbot & @carlynorama
 - Notes:
   - Programmatically generating these for different angles, LED spacing, etc. would be good.
 
-![](https://c1.staticflickr.com/1/453/17888242663_c46d147722_n.jpg")
+![](https://c1.staticflickr.com/1/453/17888242663_c46d147722_n.jpg)
 
+### MillBug - 5 Jun 2015
+- Task: Make an ATtiny85-based circuit using something other than LEDs
+- Notes:
+ - Soldering SMD on non-soldermask boards is a recipe for disaster if you have spazzy hands.
 
+![](https://c2.staticflickr.com/6/5481/18657958938_64a0dcd612_n.jpg)
 
 
 
