@@ -32,7 +32,7 @@ weekly experiments with othermachine Othermill by @todbot & @carlynorama
 
 ![](https://c1.staticflickr.com/1/453/17888242663_c46d147722_n.jpg)
 
-### MillBug - 5 Jun 2015
+### MillBug - 12 Jun 2015
 - Task: Make an ATtiny85-based circuit using something other than LEDs
 - Notes:
  - Soldering SMD on non-soldermask boards is a recipe for disaster if you have spazzy hands.
