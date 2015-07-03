@@ -36,10 +36,17 @@ weekly experiments with othermachine Othermill by @todbot & @carlynorama
 - Task: Make an ATtiny85-based circuit using something other than LEDs
 - Notes:
   - Soldering SMD on non-soldermask boards is a recipe for disaster if you have spazzy hands.
-  - So, increase polygon "isolate" value for ground pour to give you bigger spacing to non-milled copper.
+  - So, increase polygon "isolate" value for ground pour to give you
+    bigger spacing to non-milled copper.
 
 ![](https://c2.staticflickr.com/6/5481/18657958938_64a0dcd612_n.jpg)
 ![](https://c4.staticflickr.com/4/3726/18659929919_464aa0b578_n.jpg)
 
+### OtherBlink - 3 Jul 2015 (originally Aug 2014)
+- Task: See if Othermill can do SOIC & PLCC packages for ATtiny85 & WS2812, and make battery-powered flashing LED pendant with capsense touch sensor
+- Notes:
+- capsense on battery-powered projects is challenging
 
+![](https://raw.githubusercontent.com/todbot/Mill-a-Week/master/OtherBlink/otherblink.gif)
+![](https://raw.githubusercontent.com/todbot/Mill-a-Week/master/OtherBlink/otherblink-schbrd.png)
 
