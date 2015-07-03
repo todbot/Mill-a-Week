@@ -48,5 +48,5 @@ weekly experiments with othermachine Othermill by @todbot & @carlynorama
 - capsense on battery-powered projects is challenging
 
 ![](https://raw.githubusercontent.com/todbot/Mill-a-Week/master/OtherBlink/otherblink.gif)
-![](https://raw.githubusercontent.com/todbot/Mill-a-Week/master/OtherBlink/otherblink-schbrd.png)
+![](https://c1.staticflickr.com/1/325/19391221425_05b73c8e5a_n.jpg)
 
