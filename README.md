@@ -45,7 +45,7 @@ weekly experiments with othermachine Othermill by @todbot & @carlynorama
 ### OtherBlink - 3 Jul 2015 (originally Aug 2014)
 - Task: See if Othermill can do SOIC & PLCC packages for ATtiny85 & WS2812, and make battery-powered flashing LED pendant with capsense touch sensor
 - Notes:
-- capsense on battery-powered projects is challenging
+  - capsense on battery-powered projects is challenging
 
 ![](https://raw.githubusercontent.com/todbot/Mill-a-Week/master/OtherBlink/otherblink.gif)
 ![](https://c1.staticflickr.com/1/325/19391221425_05b73c8e5a_n.jpg)
