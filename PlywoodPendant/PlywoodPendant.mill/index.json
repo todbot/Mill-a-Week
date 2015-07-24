@@ -1,0 +1,321 @@
+{
+  "snapOnDrag" : true,
+  "millVersion" : 1,
+  "version" : 4,
+  "fixturing" : {
+    "spoilboard" : null,
+    "bracket" : null
+  },
+  "plans" : [
+    "03F25D69-E421-48E5-B274-73FF33020316",
+    "F09F9C86-8BB8-41A1-8B3E-22253730F2D1",
+    "0DE5D943-6333-4728-BD81-A723230E00D3",
+    "3D4AD7F5-9D21-44BD-B16C-08457A05C477",
+    "DF6D00B2-982E-4968-8BE2-28F256EFF0CB",
+    "4E0ACB3D-0E5E-468A-831D-BA716CACD063",
+    "3B7277EA-AAEA-463C-9729-DA52631F60C8",
+    "BE7451A0-1F6D-4DA5-9D23-18A6557A2BB5"
+  ],
+  "stock" : {
+    "height" : 88.899,
+    "depth" : 3.047,
+    "flipped" : false,
+    "laminate" : "516AA917-D3AA-4A12-AA4A-8A5DC45EB832",
+    "offset" : {
+      "y" : 6.022,
+      "b" : 0,
+      "z" : 0,
+      "x" : 3.263,
+      "a" : 0,
+      "c" : 0
+    },
+    "width" : 101.6,
+    "name" : "(unknown)",
+    "zrotation" : 0
+  },
+  "displayUnits" : "mm",
+  "showDimensions" : true,
+  "otherplanVersionName" : "release-build",
+  "currentJobUUID" : null,
+  "tools" : [
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          3.175,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
+    },
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          3.175,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
+    },
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          3.175,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
+    },
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          3.175,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
+    },
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          3.175,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
+    },
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          3.175,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
+    },
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          3.175,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
+    },
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          3.175,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
+    }
+  ],
+  "showMotionPlan" : true,
+  "otherplanVersion" : "0.14.3",
+  "stepSize" : 1,
+  "laminates" : [
+    {
+      "uuid" : "516AA917-D3AA-4A12-AA4A-8A5DC45EB832",
+      "group" : "Wood",
+      "name" : "Birch Plywood",
+      "layers" : [
+        {
+          "material" : "softwood"
+        }
+      ]
+    }
+  ]
+}

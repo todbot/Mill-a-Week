@@ -50,3 +50,15 @@ weekly experiments with othermachine Othermill by @todbot & @carlynorama
 ![](https://raw.githubusercontent.com/todbot/Mill-a-Week/master/OtherBlink/otherblink.gif)
 ![](https://c1.staticflickr.com/1/325/19391221425_05b73c8e5a_n.jpg)
 
+### PlywoodPendant - 24 Jul 2015 
+- Task: See if we can hit the independant plys in high-grade plywood
+- Notes:
+  - 
+See if Othermill can do SOIC & PLCC packages for ATtiny85 & WS2812, and make battery-powered flashing LED pendant with capsense touch sensor
+- Notes:
+  - Lots of "chipout" around engraved areas. Would blue tape help?
+  - We can make it thin enough for LEDs!
+
+![](https://farm1.staticflickr.com/546/19793522080_88902e36c5_n.jpg)
+![](https://farm1.staticflickr.com/326/19794820839_8e9f8f5b51_n.jpg)
+![](https://raw.githubusercontent.com/todbot/Mill-a-Week/master/PlywoodPendant/mill-a-week-othermill-thingm.gif)

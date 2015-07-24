@@ -1,0 +1,117 @@
+{
+  "snapOnDrag" : true,
+  "millVersion" : 1,
+  "version" : 4,
+  "fixturing" : {
+    "spoilboard" : null,
+    "bracket" : null
+  },
+  "plans" : [
+    "0464EAB1-352C-41BB-87ED-00E59A37EF3D",
+    "ACB6918D-B8FF-416D-B815-87C393F122EE"
+  ],
+  "stock" : {
+    "height" : 88.899,
+    "depth" : 3.047,
+    "flipped" : false,
+    "laminate" : "516AA917-D3AA-4A12-AA4A-8A5DC45EB832",
+    "offset" : {
+      "y" : 6.022,
+      "b" : 0,
+      "z" : 0,
+      "x" : 3.263,
+      "a" : 0,
+      "c" : 0
+    },
+    "width" : 101.6,
+    "name" : "(unknown)",
+    "zrotation" : 0
+  },
+  "displayUnits" : "mm",
+  "showDimensions" : false,
+  "otherplanVersionName" : "release-build",
+  "currentJobUUID" : null,
+  "tools" : [
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          3.175,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
+    },
+    {
+      "group" : "Endmill",
+      "conductive" : "yes",
+      "flutes" : 2,
+      "name" : "1\/16in Flat End Mill",
+      "profile" : [
+        [
+          3.175,
+          36.5,
+          0,
+          0
+        ],
+        [
+          3.175,
+          9.5,
+          0,
+          -1
+        ],
+        [
+          1.5875,
+          3.175,
+          0,
+          1
+        ],
+        [
+          1.5875,
+          0,
+          0,
+          1
+        ]
+      ],
+      "uuid" : "3FE64A6F-BFBC-4E48-8D48-9D7195783FDC"
+    }
+  ],
+  "showMotionPlan" : true,
+  "otherplanVersion" : "0.14.3",
+  "stepSize" : 1,
+  "laminates" : [
+    {
+      "uuid" : "516AA917-D3AA-4A12-AA4A-8A5DC45EB832",
+      "group" : "Wood",
+      "name" : "Birch Plywood",
+      "layers" : [
+        {
+          "material" : "softwood"
+        }
+      ]
+    }
+  ]
+}
