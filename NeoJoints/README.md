@@ -1,5 +1,6 @@
 
 ### NeoJoints - 5 Jun 2015
+- UPDATE: These have their own repo now: https://github.com/todbot/NeoJoints
 - Task: Make "joints" for NeoPixel/WS2812 LED strip to make it easier to join pieces together
 - Notes:
   - Programmatically generating these for different angles, LED spacing, etc. would be good.
